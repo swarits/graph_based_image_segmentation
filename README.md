@@ -7,7 +7,7 @@ C++ implementation is written by the author & is available on http://cs.brown.ed
 ### Requirements
 Python 3.7+<br>
 
-##### Dependencies: 
+### Dependencies: 
 scipy<br>
 matplotlib<br>
 numpy<br>
